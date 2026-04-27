@@ -1,7 +1,7 @@
 import random
 
 #グロ－バル変数を定義する
-MAX_ELEMENT = 10000  #最大のデータ数
+MAX_ELEMENT = 1000  #最大のデータ数
 OFFSET = 100         #データ数の増分値
 
 #配列の初期化
