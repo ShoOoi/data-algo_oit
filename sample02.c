@@ -3,7 +3,7 @@
 #include <time.h>
 
 /* MAX_ELEMENTやOFSETは適宜必要に応じて変更すること */
-#define MAX_ELEMENTS    10000 /* 最大のデータ数 */
+#define MAX_ELEMENTS    1000 /* 最大のデータ数 */
 #define OFFSET          100   /* データ数の増分値 */
 
 int  a[MAX_ELEMENTS] ; /* 探索するデータ領域 */
